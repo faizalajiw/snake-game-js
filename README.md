@@ -1,2 +1,1 @@
-
-
+# Snack Game JavaScript
